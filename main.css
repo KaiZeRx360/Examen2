@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); 
+    background-size: cover; 
+    background-attachment: fixed; 
+    color: #333; 
+}
+
+
+.card {
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+    border-radius: 15px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); 
+}
+
+
+.card-header {
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+    border-top-left-radius: 15px; 
+    border-top-right-radius: 15px; 
+}
+
+
+#resultado, #estadisticas {
+    background-color: #ffffff; 
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+mark {
+    background-color: #66FFFF; 
+}
+
+
+.btn {
+    border-radius: 20px; 
+}
+
+
+.btn:hover {
+    background-color: #0056b3; 
+}
+
+
+.form-control {
+    border-radius: 8px;
+}
+
+
+h2 {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
